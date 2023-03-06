@@ -20,4 +20,6 @@ def extract_uc_course_names():
         split_id = row[0].split('_')
         if split_id[0] in UC_COURSE_CODE:
             uc_course_names.append(row[0])
+    # sort course names by alphabetical order
+    uc_course_names.sort()
     return uc_course_names
