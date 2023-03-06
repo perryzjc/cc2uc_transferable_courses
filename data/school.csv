@@ -1,0 +1,149 @@
+id,code,name,type
+1,CSUMA,California Maritime Academy,NON_CC
+2,EVERGRN,Evergreen Valley College,CC
+3,LACC,Los Angeles City College,CC
+4,MARIN,College of Marin,CC
+5,MATEO,College of San Mateo,CC
+6,SEQUOIAS,College of the Sequoias,CC
+7,UCSD,"University of California, San Diego",NON_CC
+8,BUTTE,Butte College,CC
+9,CERRO,Cerro Coso Community College,CC
+10,COLUMBIA,Columbia College,CC
+11,CPSLO,"California Polytechnic University, San Luis Obispo",NON_CC
+12,CSUMB,"California State University, Monterey Bay",NON_CC
+13,MERRITT,Merritt College,CC
+14,RSC,Rancho Santiago College,CC
+16,CUESTA,Cuesta College,CC
+17,MERCED,Merced College,CC
+18,POSITAS,Las Positas College,CC
+19,VVCC,Victor Valley College,CC
+20,BARSTOW,Barstow Community College,CC
+21,CSUHAY,"California State University, Hayward",NON_CC
+23,CSUSM,"California State University, San Marcos",NON_CC
+24,CSUSTAN,"California State University, Stanislaus",NON_CC
+25,LATT,Los Angeles Trade Technical College,CC
+26,SDSU,San Diego State University,NON_CC
+27,ARC,American River College,CC
+28,CONTRA,Contra Costa College,CC
+29,CSUFRES,"California State University, Fresno",NON_CC
+30,DESERT,College of the Desert,CC
+31,LAHC,Los Angeles Harbor College,CC
+32,MISSION,Mission College,CC
+33,SFCITY,City College of San Francisco,CC
+34,COMPTON,Compton Community College,CC
+35,FRESNO,Fresno City College,CC
+36,KRC,Kings River College,CC
+38,SHASTA,Shasta College,CC
+39,SJSU,San Jose State University,NON_CC
+40,TAHOE,Lake Tahoe Community College,CC
+41,CABRILLO,Cabrillo College,CC
+42,CSUN,"California State University, Northridge",NON_CC
+43,GLENDALE,Glendale Community College,CC
+44,LAVC,Los Angeles Valley College,CC
+45,MIRAMAR,San Diego Miramar College,CC
+46,UCR,"University of California, Riverside",NON_CC
+47,LAMC,Los Angeles Mission College,CC
+48,OHLONE,Ohlone College,CC
+49,PASADENA,Pasadena City College,CC
+50,CSUDH,"California State University, Dominguez Hills",NON_CC
+51,FOOTHILL,Foothill College,CC
+52,MODESTO,Modesto Junior College,CC
+53,MTSJC,Mt. San Jacinto College,CC
+54,SDCC,San Diego City College,CC
+55,GWC,Golden West College,CC
+56,PALOMAR,Palomar College,CC
+57,SRC,Santa Rosa Junior College,CC
+58,VISTA,Vista Community College,CC
+60,CSUS,"California State University, Sacramento",NON_CC
+61,MEDANOS,Los Medanos College,CC
+62,MTSAC,Mount San Antonio College,CC
+63,PALOVRDE,Palo Verde College,CC
+64,RIOHONDO,Rio Hondo College,CC
+65,SADDLBK,Saddleback College,CC
+66,SANTIAGO,Santiago Canyon College,CC
+67,WHC,West Hills College Coalinga,CC
+68,CANADA,Canada College,CC
+69,CHAFFEY,Chaffey College,CC
+70,CRAFTON,Crafton Hills College,CC
+71,CYPRESS,Cypress College,CC
+72,GAVILAN,Gavilan College,CC
+73,NAPA,Napa Valley College,CC
+74,OCC,Orange Coast College,CC
+75,CPP,"California Polytechnic University, Pomona",NON_CC
+76,CSULA,"California State University, Los Angeles",NON_CC
+77,LANEY,Laney College,CC
+78,RCC,Riverside City College,CC
+79,UCB,"University of California, Berkeley",NON_CC
+80,WVC,West Valley College,CC
+81,CSULB,"California State University, Long Beach",NON_CC
+82,LASSEN,Lassen Community College,CC
+83,REDWOODS,College of the Redwoods,CC
+84,BAKERFLD,Bakersfield College,CC
+85,CSUSB,"California State University, San Bernardino",NON_CC
+86,LAPC,Los Angeles Pierce College,CC
+87,OXNARD,Oxnard College,CC
+88,SSU,Sonoma State University,NON_CC
+89,UCD,"University of California, Davis",NON_CC
+90,YUBA,Yuba College,CC
+91,LAWC,West Los Angeles College,CC
+92,SBCC,Santa Barbara City College,CC
+93,SIERRA,Sierra College,CC
+94,SOLANO,Solano Community College,CC
+95,VENTURA,Ventura College,CC
+96,CHABOT,Chabot College,CC
+97,CITRUS,Citrus College,CC
+98,CSUB,"California State University, Bakersfield",NON_CC
+99,CUYAMACA,Cuyamaca College,CC
+100,MENDOCIN,Mendocino College,CC
+101,MESA,San Diego Mesa College,CC
+102,SISKIYOU,College of the Siskiyous,CC
+103,CAMINO,El Camino College,CC
+104,CERRITOS,Cerritos College,CC
+105,COASTLIN,Coastline Community College,CC
+106,GMCC,Grossmont College,CC
+107,IMPERIAL,Imperial Valley College,CC
+108,MIRACSTA,MiraCosta College,CC
+109,SJDELTA,San Joaquin Delta College,CC
+110,AHC,Allan Hancock College,CC
+111,ALAMEDA,College of Alameda,CC
+112,COPPER,Copper Mountain College,CC
+113,DAC,De Anza College,CC
+114,DIABLO,Diablo Valley College,CC
+115,HSU,Humboldt State University,NON_CC
+116,SFSU,San Francisco State University,NON_CC
+117,UCLA,"University of California, Los Angeles",NON_CC
+118,LAEC,East Los Angeles College,CC
+119,TAFT,Taft College,CC
+120,UCI,"University of California, Irvine",NON_CC
+121,AVC,Antelope Valley College,CC
+122,FEATHER,Feather River College,CC
+123,HARTNELL,Hartnell College,CC
+124,IRVINE,Irvine Valley College,CC
+125,PORTER,Porterville College,CC
+126,SCC,Sacramento City College,CC
+127,SKYLINE,Skyline College,CC
+128,UCSB,"University of California, Santa Barbara",NON_CC
+129,CSUFULL,"California State University, Fullerton",NON_CC
+130,LASC,Los Angeles Southwest College,CC
+131,SBVC,San Bernardino Valley College,CC
+132,UCSC,"University of California, Santa Cruz",NON_CC
+133,MONTEREY,Monterey Peninsula College,CC
+134,FULLRTON,Fullerton College,CC
+135,LBCC,Long Beach City College,CC
+136,SJCC,San Jose City College,CC
+137,SMCC,Santa Monica College,CC
+138,SWSTRN,Southwestern College,CC
+139,MOORPARK,Moorpark College,CC
+140,CANYONS,College of the Canyons,CC
+141,CSUC,"California State University, Chico",NON_CC
+142,CRC,Cosumnes River College,CC
+143,CSUCI,"California State University, Channel Islands",NON_CC
+144,UCM,"University of California, Merced",NON_CC
+145,FOLSOM,Folsom Lake College,CC
+146,WHCL,West Hills College Lemoore,CC
+147,WCC,Woodland Community College,CC
+148,NORCO,Norco College,CC
+149,MVC,Moreno Valley College,CC
+150,CLOVIS,Clovis Community College,CC
+153,COMPTON,Compton College,CC
+200,MCC,Madera Community College,CC

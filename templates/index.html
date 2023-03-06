@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search CC2UC</title>
+    <link rel="icon" href="../static/icon_cute_perry.PNG" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header">Search CC's transferable courses for UC's course</div>
+                    <div class="card-body">
+                        <form action="/search" method="GET">
+                            <div class="form-group">
+                                <label for="query">Search:</label>
+                                <input type="text" class="form-control" name="query" id="query" list="search-list" placeholder="Enter search term...">
+                                <datalist id="search-list">
+                                    {% for course in courses %}
+                                        <option value="{{ course }}">{{ course }}</option>
+                                    {% endfor %}
+                                </datalist>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Search</button>
+                        </form>
+                        <a href="https://github.com/perryzjc/cc2uc_transferable_courses" target="_blank">
+                            <img src="../static/qrcode_github.png" alt="GitHub QR code" style="width:100px;height:100px;margin-top:10px;" title="Click to visit my GitHub page">
+                        </a>
+                        <a href="https://lancerlife.pasadena.edu/organization/datascience" target="_blank">
+                            <img src="../static/qrcode_pcc_data-science.png" alt="Discord QR code" style="width:100px;height:100px;margin-top:10px;" title="Click to visit PCC Data Science Club">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
